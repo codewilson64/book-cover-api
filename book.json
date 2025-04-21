@@ -1,5 +1,4 @@
-{
-  "books": [
+ [
     {
       "id": 0,
       "title": "Rich Dad Poor Dad",
@@ -40,5 +39,5 @@
       "category": "money & investments",
       "image": "https://media-hosting.imagekit.io/99d0de1ba0a1447c/travel_for_free.jpg?Expires=1839820301&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=If7hugMJQM097FvfkuHtxHVVrvhK7QY45m-wnzW~u55rZtTbGDIw5CSK0TMsPgYIG92gjc7rdcIFdjF8Zzpz6qFtZDuajO4mX3h2jvUW~ctVkNWZzO3yECl8qrxYXwkXhuypGaqXpr63s9pg1Xa1xdQqctYYYtZUGS0n1Dj1KyxeIF-LHPJ8UX8-vahXx2ox3qU~oVXcOiJOBTLw7V1AI1HBGl-u6FPxSbWNYJED0rIiT0~rJ9UvodYMK3-49omz4iRBh1wYbz2LF3xTR~44UT5iLUKHTzk5tQAbzK6wYQo5yDA0~XeUVIikMO1UdL-6Xc5jVsw9VLo7X3Dh-EMkQA__"
     }
-  ]
-}
+]
+
