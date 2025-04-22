@@ -38,6 +38,38 @@
       "description": "Master the art of traveling on a budget, turning journeys into opportunities and exploration into a lifestyle.",
       "category": "money & investments",
       "image": "https://media-hosting.imagekit.io/99d0de1ba0a1447c/travel_for_free.jpg?Expires=1839820301&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=If7hugMJQM097FvfkuHtxHVVrvhK7QY45m-wnzW~u55rZtTbGDIw5CSK0TMsPgYIG92gjc7rdcIFdjF8Zzpz6qFtZDuajO4mX3h2jvUW~ctVkNWZzO3yECl8qrxYXwkXhuypGaqXpr63s9pg1Xa1xdQqctYYYtZUGS0n1Dj1KyxeIF-LHPJ8UX8-vahXx2ox3qU~oVXcOiJOBTLw7V1AI1HBGl-u6FPxSbWNYJED0rIiT0~rJ9UvodYMK3-49omz4iRBh1wYbz2LF3xTR~44UT5iLUKHTzk5tQAbzK6wYQo5yDA0~XeUVIikMO1UdL-6Xc5jVsw9VLo7X3Dh-EMkQA__"
+    },
+    {
+      "id": 5,
+      "title": "Atomic Habits",
+      "author": "James Clear",
+      "description": "Discover whether an accumulation of tiny changes can transform your life. Study the key points of an inside-out approach to behavior change",
+      "category": "Self-Growth",
+      "image": "https://media-hosting.imagekit.io/2e63499e3d764d53/atomic_habits.png?Expires=1839927081&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=Zm0NG9YhtTXmnvDjrmA7-d4VPt8MhQPX9XM367soKjfitxV30YojMRp4Prt16ewSDzy8SSQZTiSBRAGZzlTX~lfVHB~smSxKFxqt8Y-bodvpFTLnySKvvF-B~y7gvFRJ3G-jvDl7VBmmkutsSPk0Mlyi0Y4Ly54nXuGevqUYy3YSyowkv7pmu2vdmwEcJurG-ZvRk9jmWy1ipHk6RKevPHo6EvwYqTYJFEUeEpc~dzxSCkyTk6Sraf8y02tnhJNwH6CkagoYxbRulIVQDsJ64mUovCr4CaPaP-olPpa3hxu3~O6s8oZpyX9InLi4Kodqrs93SI7qlFmTa6JVnSqW9Q__"
+    },
+    {
+      "id": 6,
+      "title": "One Small Step Can Change Your Life",
+      "author": "Robert Maurer, PhD",
+      "description": "Learn how Kaizen technique can help you in many situations, from stopping bad habits like smoking or overeating. Once you how it works, you will realize how change is not as difficult as it seems.",
+      "category": "Self-Growth",
+      "image": "https://media-hosting.imagekit.io/11d919778d0e4ea8/one_small_step.jpg?Expires=1839927170&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=sF9gprHbJQtyzNLEhEG5uIiNE~xrtBwSrdqEoqVqF5ATqfDVQHNaOUO3l9JdDWW6eQgxctyKPm70gsjUKG9dc7SI6oEEFSzTts6Zur4Y6GMz2EQ3q4a916sCXlaZp7qkrAHGFAHDhO3JvTDsExfv28c2-cyrMEEhK~vDdFLOhV8mjQr087MZQNag1w7DvybXmXd~2fmOjr9qvlliVb~9GHyash3vYoTVcLWvYJlUN2XJCqxmdT55ocaxTyP2W682km-IytH7u4djpANArC~~gBmKp8uJhGmR3TyigiE1WCyZ1LC3KDj949~KO7hKas~rCm-2bvh9DUFcr49dRYXHVg__"
+    },
+    {
+      "id": 7,
+      "title": "I Hate You - Don't Leave Me",
+      "author": "Dr. Jerold J. Kreisman, MD, Hal Straus",
+      "description": "Discover the truth about borderline personalities and learn practical strategies to manage intense emotions.",
+      "category": "Health",
+      "image": "https://media-hosting.imagekit.io/730faf818e6c4f8d/i_hate_you.png?Expires=1839927210&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=RkU1xbhkW4zXOmJpVAQZ7jj4nMyaPpCMYnZ1b6L24YUz4nfaAyLQdSkcgovxZ3q0VbvopmFRAyDqPpS6ouMVLrZOTTmTqgeD~Z3ecKl1czI9dkV-bxKp~F5yRAW7sDEMF7i-sRcH0Gj~uwXJjdrWDddZqtTWambFv8PwOXglDkP8ytfBVERFvHVR2RAtjCO0VioRNhEGatAeySAIi5tTDW7xtckKs-JnM8B7YymV4z8Q8XV5e1j13E-K9Wo5DDPvG~Elgl3B0xQBlnRfNFOQhrS-rYdq0ya0jJplkUFrP4dIum~xBvdVmjt8GCXLhhUY8U2iQ-rYWr8ckflo84udNA__"
+    },
+    {
+      "id": 8,
+      "title": "Glucose Revolution",
+      "author": "Jessie Inchauspe",
+      "description": "Seize control over sugar spikes and learn how transforming your diet can revolutionize your daily energy and mood.",
+      "category": "Health",
+      "image": "https://media-hosting.imagekit.io/c5daf5c7f1364965/glucose_revolution.png?Expires=1839927251&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=tQNc2KAc5RpYwaBfyEcWCmVnWKWlbMNm2VAF9lwDbkRjj4lXRC93e-Km-elqIbcVK2ApVnZsNf1iG6lrGELzoY1wTxy4azYARJHTtnLMVJeXZAZ-WP7i4AK8fwV4dkpAKKg5KPaOae1EUQj6ewBE7CUaBLfiO9e3wdxMkASTXwLhq4GoYnZmbfvgE~jYm00x~aUdN4lSqDJGk0XQbRQs9tQccm13pinz0dSbaHN05sDU9vZrLkOQtDeUpNnwFCioBQxUrnp6zI0cP8X~5gc02HiAmEfg7Oo2wt2t1omgKBO3~27zxNhse4AD5vqbztxy8hCU8d0jdvE41CYJMddSRA__"
     }
 ]
 
