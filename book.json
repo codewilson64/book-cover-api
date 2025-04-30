@@ -1,4 +1,4 @@
- [
+[
     {
       "id": 0,
       "title": "Rich Dad Poor Dad",
@@ -52,7 +52,7 @@
             "title": "Conclusion",
             "summary": "Rich Dad Poor Dad is more than just a personal finance book—it's a mindset shift. Robert Kiyosaki doesn't give you step-by-step investment strategies or stock-picking advice. Instead, he challenges the very way people think about money, work, education, and success. Through the juxtaposition of his two “dads,” Kiyosaki illustrates how our beliefs about money can either trap us in a lifetime of working for someone else or empower us to achieve financial freedom. The overarching lesson is simple yet profound: wealth is not just about how much you earn—it's about how well you manage what you have, how you invest your time and resources, and how deeply you understand the language of money. By embracing financial education, acquiring assets, taking calculated risks, and continuously learning, anyone—regardless of their background—can break free from the cycle of living paycheck to paycheck and start building lasting wealth. Ultimately, Rich Dad Poor Dad is a call to take responsibility for your financial future. It reminds us that we don't have to follow the same path as everyone else. With the right mindset, education, and action, we can forge our own way toward a richer, freer life."
           }
-      ]  
+      ]       
     },
     {
       "id": 1,
@@ -60,7 +60,44 @@
       "author": "Robert J. Shiller",
       "description": "Get to know the psychology behind market bubbles and crashes and how to navigate investments wisely.",
       "category": "Money & Investments",
-      "image": "https://media-hosting.imagekit.io/2f6db8bebe804263/irrational_exuberance.jpg?Expires=1839819578&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=J2fTvsg~vnflXaBRGWIKosEGi7vuilNkXnNh-~gAGAZG-EKPUmNIbFLjBobEHY4M-M9xyxPcIzYnsdenTWRnKCuBhOE1HGxhN2ngsHxYiUwfNd21CkF-eKaPS-ITd8yganCSEKHRIgrkyio4HDf6DSjCg44DfGDlNH1OrhDi8I7degkIAuYgopH6Ma80UMld1ROFMwvesapFsEbZs~PWK5vUWodBHo0wBumW3JV3rkev8f~1E39SntKkM0YVRGH98rPW3q6B2XSkIMIm-xZ~bOG-7cUCT~kO0TR4iAq1Y5qYWmzlIQuVXlYQcXsshZ6gk5JeGvsloa-uFJ9zkwNy5g"
+      "image": "https://media-hosting.imagekit.io/2f6db8bebe804263/irrational_exuberance.jpg?Expires=1839819578&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=J2fTvsg~vnflXaBRGWIKosEGi7vuilNkXnNh-~gAGAZG-EKPUmNIbFLjBobEHY4M-M9xyxPcIzYnsdenTWRnKCuBhOE1HGxhN2ngsHxYiUwfNd21CkF-eKaPS-ITd8yganCSEKHRIgrkyio4HDf6DSjCg44DfGDlNH1OrhDi8I7degkIAuYgopH6Ma80UMld1ROFMwvesapFsEbZs~PWK5vUWodBHo0wBumW3JV3rkev8f~1E39SntKkM0YVRGH98rPW3q6B2XSkIMIm-xZ~bOG-7cUCT~kO0TR4iAq1Y5qYWmzlIQuVXlYQcXsshZ6gk5JeGvsloa-uFJ9zkwNy5g",
+      "chapters": [
+        {
+          "id": 1,
+          "title": "Introduction",
+          "summary": "Irrational Exuberance, written by Nobel Prize-winning economist Robert J. Shiller, is a landmark exploration of the psychology behind financial markets, asset bubbles, and economic behavior. \n\nOriginally published in 2000 with subsequent editions addressing newer phenomena like the housing bubble and cryptocurrencies, the book’s central thesis remains highly relevant: markets are not always efficient, and investor behavior is often driven more by psychology and social dynamics than by rational analysis. \n\nThe title itself was drawn from a phrase uttered by former Federal Reserve Chairman Alan Greenspan in 1996, which captured the public's attention and came to symbolize the speculative frenzy of the dot-com era. \n\nShiller's rigorous yet accessible analysis blends insights from economics, behavioral finance, psychology, and history to explain how asset bubbles form and why they are so difficult to predict or contain. Rather than accepting the efficient market hypothesis as gospel, Shiller presents a compelling alternative, grounded in the observation that human behavior—herding, overconfidence, and the desire for narratives—plays a powerful role in market dynamics. \n\nThis summary captures the essence of Shiller's arguments across the book’s multiple editions, focusing on his analysis of the stock market, the housing market, interest rates, and broader macroeconomic phenomena."
+        },
+        {
+          "id": 2,
+          "title": "The Origins and Nature of Speculative Bubbles",
+          "summary": "One of the core ideas in Irrational Exuberance is that speculative bubbles arise not from sound economic fundamentals, but from contagious social and psychological phenomena. \n\nShiller devotes significant effort to explaining that bubbles are characterized by a market situation in which prices rise far above the levels that can be justified by fundamental value, often leading to severe corrections. \n\nImportantly, bubbles are not merely price increases—they are self-reinforcing feedback loops in which rising prices attract more investors, who push prices higher, thereby validating the beliefs that led to the initial price increases. \n\nThis cycle becomes unsustainable but can continue for years due to collective irrationality. Shiller uses historical examples, such as the Dutch tulip mania, the South Sea Bubble, and the stock market bubbles of the 1920s and 1990s, to illustrate the persistent nature of these phenomena. \n\nCentral to his argument is the idea that mass psychology—not rational expectations—drives asset markets in these times. The very notion of \"rationality\" becomes strained when investors engage in herd behavior, follow popular narratives rather than sober analysis, or succumb to overconfidence about their abilities to forecast market trends. \n\nShiller critiques the efficient market hypothesis by pointing out that if markets were truly efficient, we wouldn’t observe long-term cycles of overvaluation and subsequent crashes. \n\nHis emphasis on volatility data demonstrates that real-world markets are far more unstable than the theory would suggest. Through empirical data, he shows that prices fluctuate far more than dividends or earnings, suggesting that external factors—often psychological and sociological—are behind much of the variation."
+        },
+        {
+          "id": 3,
+          "title": "The Role of Cultural Narratives and Media",
+          "summary": "Shiller argues that market bubbles are fueled by powerful cultural narratives that become embedded in the public consciousness and guide investor behavior. \n\nThese stories often carry moral or aspirational messages about wealth, opportunity, and national progress. During the dot-com bubble, for instance, the popular story was that the internet was ushering in a new economic era, fundamentally transforming productivity and making older valuation methods obsolete. \n\nWhile such narratives may contain grains of truth, they often get exaggerated and transformed into collective myths that encourage speculative investment. Shiller draws attention to the role of the media in spreading these ideas, amplifying their psychological impact. \n\nThe media doesn't merely report market movements—it helps shape them. As people consume repeated stories of others getting rich, they become more likely to invest themselves, fearing they might miss out. \n\nThis \"fear of missing out\" plays a crucial role in speculative manias, encouraging people to suspend critical judgment. Shiller connects this to the psychological concept of anchoring, in which people rely too heavily on initial information or reference points, such as recent high returns, in forming their expectations. In essence, people are influenced more by the stories around them than by a rigorous evaluation of financial fundamentals. \n\nMoreover, Shiller stresses that our understanding of risk is often flawed. People do not naturally think in probabilistic terms, and are prone to optimism bias and the illusion of control. \n\nThis leads them to believe they are less likely to suffer losses than others, even when investing in overvalued assets. The effect of these biases is amplified by group dynamics, as investors take cues from each other, reinforcing the prevailing mood."
+        },
+        {
+          "id": 4,
+          "title": "Stock Market Overvaluation and the CAPE Ratio",
+          "summary": "A central empirical tool in Irrational Exuberance is the cyclically adjusted price-to-earnings (CAPE) ratio, which Shiller developed to assess stock market valuation. The CAPE ratio is calculated by dividing a stock index’s price by the average of ten years of inflation-adjusted earnings. \n\nThis approach smooths out short-term volatility and provides a better measure of whether the market is over- or under-valued compared to historical norms. Shiller demonstrates that historically, when the CAPE ratio is high, future returns tend to be low, and vice versa. \n\nIn the first edition of the book, published in 2000, Shiller warned that the U.S. stock market was dangerously overvalued according to this metric. He showed that the CAPE ratio was at its highest point since the 1929 crash, suggesting that a correction was likely. \n\nHis prediction proved prescient, as the dot-com bubble burst shortly afterward. In subsequent editions, he applied the same methodology to different time periods, including the lead-up to the 2008 financial crisis. \n\nThe CAPE ratio has since become a widely used tool for long-term valuation analysis, though Shiller acknowledges that it cannot predict the timing of market reversals. \n\nShiller is careful to emphasize that while valuation metrics like CAPE are useful for identifying over- or under-valuation, they are not timing tools. Markets can remain overvalued for long periods before correcting. \n\nNonetheless, these indicators are crucial for forming rational expectations about future returns. Investors who ignore such signals may be setting themselves up for disappointment. The reliance on short-term performance and momentum is, in Shiller’s view, one of the key weaknesses of investor behavior."
+        },
+        {
+          "id": 5,
+          "title": "The Housing Market and Real Estate Bubbles",
+          "summary": "In later editions of Irrational Exuberance, Shiller expands his analysis to include the housing market, particularly in light of the U.S. housing bubble that led to the 2008 financial crisis. \n\nHe applies similar logic to the housing sector, arguing that psychological and social factors—more than supply and demand fundamentals—explained the dramatic rise in home prices during the early 2000s. Like stock bubbles, housing bubbles are driven by the belief that prices can only go up, a notion that is deeply embedded in the American Dream. \n\nShiller’s research found that people were increasingly viewing homes not just as places to live, but as investments expected to yield significant returns. Fueled by low interest rates, lax lending standards, and financial innovation like mortgage-backed securities, housing prices soared. \n\nMedia stories about rising home values, house-flipping, and real estate wealth further encouraged the perception that everyone could get rich by buying property. \n\nYet housing, Shiller argues, is fundamentally different from financial assets because it is an illiquid, long-term investment with high transaction costs. The belief in ever-rising prices was therefore irrational and dangerous. \n\nWhen the housing market eventually collapsed, it triggered a broader financial crisis, exposing the fragility of a system built on leverage and optimism. Shiller’s analysis demonstrated that housing prices, when adjusted for inflation, had remained relatively stable over the long term until the bubble of the 2000s. \n\nThe sharp increase in prices was thus a historical anomaly, not a reflection of new economic fundamentals. By applying a data-driven and behavioral lens to housing, Shiller provided a powerful counter-narrative to the conventional wisdom that real estate was always a safe bet."
+        },
+        {
+          "id": 6,
+          "title": "The Role of Interest Rates and Monetary Policy",
+          "summary": "Shiller also examines the influence of interest rates and monetary policy on speculative behavior. While low interest rates are often justified as tools to stimulate the economy, they also create conditions ripe for bubbles. \n\nWhen borrowing is cheap, both consumers and investors are more likely to take on debt, fueling asset price inflation. Shiller argues that central banks need to be mindful not only of inflation and employment targets, but also of asset price stability. \n\nHe suggests that monetary authorities should consider measures that account for speculative excesses, even if they are not traditionally part of central bank mandates. \n\nHe explores how the Federal Reserve’s policy decisions can inadvertently contribute to irrational exuberance by signaling to markets that credit will remain loose indefinitely. \n\nThis belief can encourage risk-taking and reduce the perceived cost of failure. Shiller does not argue for rigid control of markets, but rather for a more nuanced understanding of how psychological responses to monetary policy affect investor decisions. \n\nIn this view, financial instability is not merely a technical problem but one deeply rooted in mass psychology and expectations. \n\nMoreover, Shiller critiques the idea that markets always self-correct efficiently. He provides evidence that even after bubbles burst, recovery can be slow and painful, particularly if households and businesses have overleveraged themselves. \n\nThe aftermath of such corrections often involves severe economic dislocations, including recessions, unemployment, and long-term damage to financial confidence. The cumulative effect of these shocks reveals that asset bubbles are not benign events—they have real consequences for people’s lives."
+        },
+        {
+          "id": 7,
+          "title": "Conclusion",
+          "summary": "Irrational Exuberance is a profound and timely investigation into the psychological and social forces that drive financial markets. Through rigorous data analysis, historical examples, and psychological insights, Robert J. Shiller demonstrates that markets are not the rational, efficient systems that classical economics would have us believe. \n\nInstead, they are deeply influenced by human behavior—emotions, narratives, and herd instincts—that can lead to dramatic mispricings of assets and subsequent economic fallout. \n\nShiller's work serves as both a warning and a guide, urging investors, policymakers, and the public to recognize the signs of speculative excess and to develop tools for mitigating its impact. \n\nAt its heart, the book is a call for humility in the face of complex systems and for vigilance against the seductive power of popular narratives. By emphasizing the need for greater financial literacy, thoughtful regulation, and a more nuanced understanding of investor psychology, Irrational Exuberance provides a roadmap for navigating the ever-shifting terrain of financial markets. \n\nIts enduring relevance lies in its ability to bridge the gap between economics and human behavior, offering insights that remain crucial in an age of persistent volatility and uncertainty."
+        }
+      ]
     },
     {
       "id": 2,
@@ -88,6 +125,46 @@
     },
     {
       "id": 5,
+      "title": "Side Hustle",
+      "author": "Chris Guillebeau",
+      "description": "Uncover innovative strategies to launch a successful side business while keeping your day job.",
+      "category": "Money & Investments",
+      "image": "https://media-hosting.imagekit.io/ff338b7961aa4287/side_hustle.png?Expires=1840595194&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=2PvhWbh1vlTfXVFUMbbmsBqs1~4JoAEDWRI6KwGMdlHylBy70hnvTdXKRD-7itAJxPYsu08j50CI3KvBR-W4H911B--9ig6NVvv~waoYWSewKBgYUW9uOKdlzzbNtGgilbaSJs9zekN4UxpNEHylKW~6l-te16kG-UqQjqVwm7HSxR2RJ~pcElQS918UduOA4e8yKWzgJfiuOxCQmvOg-HPvp2IUd5iGI0MZYuBCdfgN0mFJXEXivyLvNsDN12lw1ZbsBc6EqbaFZXnEpHHPJLFFpYtSOXViskzhXPIcpCpPpl7c1lPPVseu2~DOu9Lfvjpr0KzdvUm4IJ4MgO1A4A__"
+    },
+    {
+      "id": 6,
+      "title": "The Automatic Millionaire",
+      "author": "David Bach",
+      "description": "Discover strategies to effortlessly grow your wealth and achieve the American Dream.",
+      "category": "Money & Investments",
+      "image": "https://media-hosting.imagekit.io/70fa26f8483e4713/the_automatic_millionaire.png?Expires=1840595331&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=br9h3WK~aFVEehzPARw~Kfp9MB6UY4Wn3nUXZOAZxDwCBh8D5XRNs6W~o1shrpmgInEoDsaft1cRS4Vtt~MBJAeIOxpGgV8iJVzxS9JtSx6MzyPlpm8DWKiLwkHQbi8X3IEBvBxQSSsLH1YdlRiUH8fYwKYz8e9o7agNM7cSgx8L2Iy4sSzyWEgTmT69wlaw9JUA7yU4OtlqlfLc-h5FqfBsFJaEgZwUwfT-qnTPQbwei~GrZM0MmOfJfbzvatJpXzzZHzAQOSxuiTyiTKXNazfa~gGpjq41kR9qEQEfAIK0h0SxQ42xOQHX1CyvnDH~AHBRBSCE4rWPZY~f7t0l4A__"
+    },
+    {
+      "id": 7,
+      "title": "Think and Grow Rich!",
+      "author": "Napoleon Hill",
+      "description": "Learn how to develop the right mindset and to stop procrastinating to reach your goals.",
+      "category":"Money & Investments",
+      "image": "https://media-hosting.imagekit.io/c53c978779294ec6/think_and_grow_rich.png?Expires=1840595464&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=cNlXFpWo65bJRd8haCCfhV80VThbK-4P5D783ZlwqXX4AROcZaLgZidoN82orm~RpLxkABUHk5NpjohPZwAnJBx7aHcB4vTV0xIpoRGfUb7npCdHqbhVFtsEigAWj-dkTwnaITV23vVxEiredyzULtvn5xbqv1hCciWjMvfPbEainHgG32iz5R-XvSvPgSszWsalOK4~8QuiZYD7DQR150BU3T4fHoLR9Rri9xiorWKUPZvdUHjMxJYa79JWpY67pYXqdNIk6zQPl9XE5EMZA03Fve~A6IdCV1Xk9~qHbZpuQ1y~Ypx8VqK70UTuQsbRN38Ym8ok0LrJfXgeNjxaAA__"
+    },
+    {
+      "id": 8,
+      "title": "The Financial Diet",
+      "author": "Chelsea Fagan, Lauren VerHage",
+      "description": "Say goodbye to financial problems by learning to budget, invest, work effectively and talk about money with your partner.",
+      "category": "Money & Investments",
+      "image": "https://media-hosting.imagekit.io/0f91c6773f9f4853/the_financial_diet.png?Expires=1840595605&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=k5LI7lCOsuphs4do-zAVflw4O3r49RJiLkjD6eF76NmW9UCGIoWGBMR8ZlmJyJUbrGrL~Uhgp1N~hd0Zp-TdZQKO1dEhpotI8XkWZv~Q4-Pc7wpxbZ72RpRtcScJLe133kJ4wPjGxLLie5ZBe2qfRswH~Dardf6vMrD1ZS6mYHvM1RKHbC5YLpf4MolbJNdqulDA67MAaPZzhSi4K~oTJ6W7nGIg6OLeS370qfGkVlOLQWTVBHtzM0izrTUAyozpcoKPnWyiCXOfVAUlZ6PwFhDnuF~6ZJACxAmzRm5XW4y-1VKiAomZxy6pADazwnwDOZ4vK6Lyn7N9Jn4HVQUVIA__"
+    },
+    {
+      "id": 9,
+      "title": "Chip War",
+      "author": "Chris Miller, Prof.",
+      "description": "Discover how microchips became a battlefield for political leadership. Find out the tendencies that will reshape this industry in the near future.",
+      "category":"Money & Investments",
+      "image": "https://media-hosting.imagekit.io/0ae0908d359d4bac/chip_war.png?Expires=1840595718&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=z6sp0roeDiVihXOXGGUxPXd5ZBlJ2F7AmzP2KrQwv85511PleES4dzwGfKf0b35Z-PKOSnZs4JO~lKSWsL8fV1qe5yQiFqaAHF7gT-VKGuq~Rgkv5JhI~NqfdfCFZkH9x--WbtWEZPfDPCoHXpjOJI6fCH8OVptB~dbGs8Kv9jf~3muV7qNg25Fc2C7BErPYHTOoTTNPKrui1aebBE7xMC-wXsxTxSGxplRaat2cMQA9WqXQyNi1H9wS470yqlrByEeTEqEM2ZVL~vFHpqsB~WzYyCC-ntHfPb8HVVAHDJuwJCH3vJrS~3WIP~VJVE~7HP6-VAV2ieSYUDxxJoAsMg__"
+    },
+    {
+      "id": 10,
       "title": "Atomic Habits",
       "author": "James Clear",
       "description": "Discover whether an accumulation of tiny changes can transform your life. Study the key points of an inside-out approach to behavior change",
@@ -152,10 +229,10 @@
       ]
     },
     {
-      "id": 6,
+      "id": 11,
       "title": "One Small Step Can Change Your Life",
       "author": "Robert Maurer, PhD",
-      "description": "Learn how Kaizen technique can help you in many situations, from stopping bad habits like smoking or overeating. Once you how it works, you will realize how change is not as difficult as it seems.",
+      "description": "Learn how Kaizen technique can help you in many situations, from stopping bad habits like smoking or overeating. Once you know how it works, you will realize how change is not as difficult as it seems.",
       "category": "Self-Growth",
       "image": "https://media-hosting.imagekit.io/11d919778d0e4ea8/one_small_step.jpg?Expires=1839927170&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=sF9gprHbJQtyzNLEhEG5uIiNE~xrtBwSrdqEoqVqF5ATqfDVQHNaOUO3l9JdDWW6eQgxctyKPm70gsjUKG9dc7SI6oEEFSzTts6Zur4Y6GMz2EQ3q4a916sCXlaZp7qkrAHGFAHDhO3JvTDsExfv28c2-cyrMEEhK~vDdFLOhV8mjQr087MZQNag1w7DvybXmXd~2fmOjr9qvlliVb~9GHyash3vYoTVcLWvYJlUN2XJCqxmdT55ocaxTyP2W682km-IytH7u4djpANArC~~gBmKp8uJhGmR3TyigiE1WCyZ1LC3KDj949~KO7hKas~rCm-2bvh9DUFcr49dRYXHVg__",
       "chapters": [
@@ -207,7 +284,7 @@
       ]
     },
     {
-      "id": 7,
+      "id": 12,
       "title": "Questions Are the Answer",
       "author": "Hal B. Gregersen",
       "description": "Learn to ask questions that can move mountains. Improve your insight to win with words.",
@@ -252,7 +329,7 @@
       ]
     },
     {
-      "id": 8,
+      "id": 13,
       "title": "The Power of Full Engagement",
       "author": "Jim Loehr, Tony Schwartz",
       "description": "Discover strategies to harness your untapped energy resources to elevate life's quality and productivity.",
@@ -302,7 +379,7 @@
       ]
     },
     {
-      "id": 9,
+      "id": 14,
       "title": "WOLFPACK",
       "author": "Abby Wambach",
       "description": "Do you feel like society's expectations limit you? Unleash your potential with strategies to redefine women's leadership and claim your power.",
@@ -362,7 +439,7 @@
       ]
     },
     {
-      "id": 10,
+      "id": 15,
       "title": "Die Empty",
       "author": "Todd Henry",
       "description": "Discover strategies to live your life with purpose and leave behind a legacy of achievement. Learn to harness daily actions for long-term success, turning ordinary into extraordinary.",
@@ -427,7 +504,7 @@
       ]
     },
     {
-      "id": 11,
+      "id": 16,
       "title": "Platonic",
       "author": "Marisa G. Franco, PhD",
       "description": "Grasp an ancient wisdom to find a soulmate in the modern world. Learn how to find, keep, and cherish friendship in adulthood.",
@@ -487,7 +564,7 @@
       ]
     },
     {
-      "id": 12,
+      "id": 17,
       "title": "How to Do the Work",
       "author": "Dr. Nicole LePera",
       "description": "Discover how to unlock personal growth by unravelling your past, and harness the power of holistic health.",
@@ -537,7 +614,7 @@
       ]
     },
     {
-      "id": 13,
+      "id": 18,
       "title": "Missing Each Other",
       "author": "Edward Brodkin, Ashley Pallathra",
       "description": "Discover the power of attunement and its profound impact on personal relationships. Unveil strategies to build lasting connections with others.",
@@ -602,7 +679,7 @@
       ]
     },
     {
-      "id": 14,
+      "id": 19,
       "title": "Fluent Forever",
       "author": "Gabriel Wyner",
       "description": "Arm yourself with a science-backed guide to learning foreign languages on your own and discover pointers that will make your studying easy, engaging, and fun.",
@@ -672,7 +749,7 @@
       ]
     },
     {
-      "id": 15,
+      "id": 20,
       "title": "I Hate You - Don't Leave Me",
       "author": "Dr. Jerold J. Kreisman, MD, Hal Straus",
       "description": "Discover the truth about borderline personalities and learn practical strategies to manage intense emotions.",
@@ -680,7 +757,7 @@
       "image": "https://media-hosting.imagekit.io/730faf818e6c4f8d/i_hate_you.png?Expires=1839927210&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=RkU1xbhkW4zXOmJpVAQZ7jj4nMyaPpCMYnZ1b6L24YUz4nfaAyLQdSkcgovxZ3q0VbvopmFRAyDqPpS6ouMVLrZOTTmTqgeD~Z3ecKl1czI9dkV-bxKp~F5yRAW7sDEMF7i-sRcH0Gj~uwXJjdrWDddZqtTWambFv8PwOXglDkP8ytfBVERFvHVR2RAtjCO0VioRNhEGatAeySAIi5tTDW7xtckKs-JnM8B7YymV4z8Q8XV5e1j13E-K9Wo5DDPvG~Elgl3B0xQBlnRfNFOQhrS-rYdq0ya0jJplkUFrP4dIum~xBvdVmjt8GCXLhhUY8U2iQ-rYWr8ckflo84udNA__"
     },
     {
-      "id": 16,
+      "id": 21,
       "title": "Glucose Revolution",
       "author": "Jessie Inchauspe",
       "description": "Seize control over sugar spikes and learn how transforming your diet can revolutionize your daily energy and mood.",
@@ -688,4 +765,3 @@
       "image": "https://media-hosting.imagekit.io/c5daf5c7f1364965/glucose_revolution.png?Expires=1839927251&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=tQNc2KAc5RpYwaBfyEcWCmVnWKWlbMNm2VAF9lwDbkRjj4lXRC93e-Km-elqIbcVK2ApVnZsNf1iG6lrGELzoY1wTxy4azYARJHTtnLMVJeXZAZ-WP7i4AK8fwV4dkpAKKg5KPaOae1EUQj6ewBE7CUaBLfiO9e3wdxMkASTXwLhq4GoYnZmbfvgE~jYm00x~aUdN4lSqDJGk0XQbRQs9tQccm13pinz0dSbaHN05sDU9vZrLkOQtDeUpNnwFCioBQxUrnp6zI0cP8X~5gc02HiAmEfg7Oo2wt2t1omgKBO3~27zxNhse4AD5vqbztxy8hCU8d0jdvE41CYJMddSRA__"
     }
 ]
-
