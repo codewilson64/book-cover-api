@@ -194,7 +194,7 @@
         },
         {
           "id": 7,
-          "title": "New Ways to Run the Factory: Drum-Buffer-Rope and Smaller Batches",
+          "title": "New Ways to Run the Factory: Drum-Buffer-Rope",
           "summary": "To make the \"Subordinate\" step work well in practice, Alex's team needed a better way to schedule work and release materials into the factory. Jonah helped them set up a system called Drum-Buffer-Rope (DBR). It works like this: \n\nThe Drum is the bottleneck. Like a drummer setting the beat for a band, the bottleneck sets the speed for the whole factory (at least for the products that have to go through it). The production schedule is based on how fast the bottleneck can work. \n\nThe Buffer is like a safety cushion of work placed right before the bottleneck. It's not a huge pile, just enough work (measured in hours or days of bottleneck time) to make sure the bottleneck never runs out of things to do, even if there's a small problem or delay earlier in the process. \n\nThis protects the factory's Throughput. They also put buffers near the end of the line, before assembly and shipping, to make sure customer orders were protected. Buffers are measured in time, which makes them easier to manage than counting parts. \n\nThe Rope is like a signal cord that goes from the bottleneck all the way back to the start of the production line where raw materials are released. The rope tells the starting gate: \"Only let new materials into the factory at the same speed that the bottleneck is actually finishing work.\" \n\nThis stops the factory from getting flooded with too much work-in-process inventory. The rope essentially pulls work through the factory at the pace set by the drum (the bottleneck)."
         },
         {
